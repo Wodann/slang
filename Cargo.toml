@@ -36,6 +36,7 @@ members = [
     "crates/testlang/outputs/cargo/slang_testlang",
     "crates/testlang/outputs/cargo/tests",
     "crates/testlang/outputs/npm/package",
+    "examples/linter"
 ]
 
 [workspace.dependencies]
